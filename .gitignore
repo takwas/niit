@@ -1,3 +1,8 @@
 *.exe
 *~
 .pyc
+res
+*_res
+faculty/faculty_projects/monodev_projects/
+student/
+

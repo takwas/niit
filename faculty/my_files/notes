@@ -1,0 +1,60 @@
+==================
+C# OOP Class
+==================
+State - Describes the data attributes of an object
+Behaviour
+Identity
+
+Types of Data Types:
+	- Value Types: A value type variable directly contains the data stored in it. Memory is allocated
+	every time to store each new value of value-type data. Predefined types: 'char', 'int', 'float', 'double'
+	and 'bool'	are examples.
+	
+	- Reference Types: Actual data value is stored in a separate location and the address
+	of that location is stored (referenced) by the declared variable. If multiple variables reference
+	the same memory address, any change made to the stored value is reflected in all the variables.
+	'string' and other object types are reference types.
+	
+
+Member Functions
+	public void MethodName()	// function header declaration
+	{
+		// function body definition goes here ...
+	}
+
+Instantiating a Class
+	ClassName identifier = new ClassName();
+	
+
+
+==============================================
+
+Operators:
+	- Arithmetic operators
+	- Arithmetic assignment operators
+	- Unary operators
+	- Comparison (Relational) operators
+	- Logical operators
+----------------------------------------------------
+Conditional Constructors
+	- if .. else constructs
+	- switch .. case constructs
+
+Nested 'if .. else' constructs are also called "cascading if ..else" constructs.
+
+----------------------------------------------------
+
+Loop Constructs
+	- while loop
+	- do .. while loop
+	- for loop
+	
+All the components in the declaration of a "for loop" construct are optional, like so:
+	for ( ; ; )
+	{
+		// for loop body goes here ...
+	}
+
+
+==============================================
+

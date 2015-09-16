@@ -141,6 +141,8 @@ class Calc
 				break;
 		}
 		
+		Console.ReadLine();		// Add this at the end of your program so that it doesn't exit automatically
+		
 	}
 
 }
