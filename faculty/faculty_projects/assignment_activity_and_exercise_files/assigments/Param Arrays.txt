@@ -1,0 +1,13 @@
+
+David, a student of California University, is currently pursuing mathematics. He is working on a project named Matrix Subtraction. He needs to perform the following tasks for his project:
+
+	- Accept data in two arrays.
+	- Perform the subtraction operation.
+	- Verify the value of subtraction.
+
+Help David to create the C# program using Visual Studio IDE.
+
+Solution:
+	To solve the preceding problem, David needs to perform the following tasks:
+		1. Create a console-based application for Matrix Subtraction.
+		2. Build and execue an application.
