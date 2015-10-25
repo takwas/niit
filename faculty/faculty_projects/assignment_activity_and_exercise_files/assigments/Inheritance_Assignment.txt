@@ -1,0 +1,9 @@
+
+Problem Statement:
+	Furniture and Fittings Company (FFC) manufactures domestic furniture. Customers provide their specifications to the company for the furniture they want. To cope with the received customer’s orders, FFC decides to computerize the order-processing system. The system should accept the values of furniture items, such as a bookshelf and a chair. You need to develop the hierarchy of these items.
+
+
+Solution:
+	To create a console based application for FFC, you need to perform the following tasks:
+		- Create a console-based application.
+		- Build and execute an application.
